@@ -152,7 +152,7 @@ export default function Hero() {
             animate={inView ? { opacity: 1, x: 0 } : {}}
             transition={{ duration: 0.8, delay: 1.2 }}
           >
-            <span className="card-number">6+</span>
+            <span className="card-number">7+</span>
             <span className="card-label">Years Experience</span>
           </motion.div>
         </motion.div>

@@ -3,10 +3,10 @@ import { useInView } from 'react-intersection-observer'
 import './About.css'
 
 const stats = [
-  { number: '6+', label: 'Years Experience' },
+  { number: '7+', label: 'Years Experience' },
   { number: '50+', label: 'Projects Delivered' },
   { number: '30+', label: 'Happy Clients' },
-  { number: '15+', label: 'Design Awards' },
+  { number: '5', label: 'Companies' },
 ]
 
 const highlights = [
@@ -84,7 +84,7 @@ export default function About() {
                 <div className="image-overlay" />
               </div>
               <div className="experience-badge">
-                <span className="badge-years">6+</span>
+                <span className="badge-years">7+</span>
                 <span className="badge-text">Years of<br/>Experience</span>
               </div>
             </div>
@@ -111,7 +111,7 @@ export default function About() {
             
             <div className="about-text">
               <p className="lead">
-                I'm a passionate Senior UI/UX Designer with over 6 years of experience 
+                I'm a passionate Senior UI/UX Designer with over 7 years of experience 
                 creating digital products that seamlessly blend aesthetics with functionality.
               </p>
               <p>
