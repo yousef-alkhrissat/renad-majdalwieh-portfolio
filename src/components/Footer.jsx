@@ -11,10 +11,10 @@ const navLinks = [
 ]
 
 const socialLinks = [
-  { name: 'LinkedIn', url: 'https://linkedin.com/in/renadmajdalwieh' },
+  { name: 'LinkedIn', url: 'https://www.linkedin.com/in/renad-majdalawieh-3178a7145/' },
   { name: 'Behance', url: 'https://www.behance.net/renadmajd791995' },
-  { name: 'Dribbble', url: 'https://dribbble.com/renadmajdalwieh' },
-  { name: 'Instagram', url: 'https://instagram.com/renadmajdalwieh' },
+  { name: 'Figma', url: 'https://www.figma.com/design/cjcJXPrOKLuZ7ODghsBh64/Case-Studies?node-id=0-1&p=f' },
+  { name: 'Portfolio', url: 'https://drive.google.com/drive/folders/1Nbg7Y8e_nurGomGM1_KHn-RjSjReURCA' },
 ]
 
 export default function Footer() {
