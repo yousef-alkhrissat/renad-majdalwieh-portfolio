@@ -133,24 +133,17 @@ export default function Portfolio() {
           ))}
         </motion.div>
 
-        <motion.div 
-          className="portfolio-grid"
-          layout
-          variants={containerVariants}
-          initial="hidden"
-          animate={inView ? "visible" : "hidden"}
-        >
+        <div className="portfolio-grid">
           <AnimatePresence mode="popLayout">
             {filteredProjects.map((project, index) => (
               <motion.article
                 key={project.id}
                 className="project-card"
-                variants={itemVariants}
                 layout
-                initial={{ opacity: 0, scale: 0.9 }}
-                animate={{ opacity: 1, scale: 1 }}
-                exit={{ opacity: 0, scale: 0.9 }}
-                transition={{ duration: 0.4 }}
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, scale: 0.95 }}
+                transition={{ duration: 0.4, delay: index * 0.05 }}
                 whileHover={{ y: -10 }}
               >
                 <div className="project-image-wrapper">
@@ -192,7 +185,7 @@ export default function Portfolio() {
               </motion.article>
             ))}
           </AnimatePresence>
-        </motion.div>
+        </div>
 
         <motion.div 
           className="portfolio-cta"
