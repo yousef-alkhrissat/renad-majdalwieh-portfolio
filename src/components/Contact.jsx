@@ -12,8 +12,8 @@ const contactInfo = [
       </svg>
     ),
     label: 'Email',
-    value: 'renad.majdalwieh@email.com',
-    href: 'mailto:renad.majdalwieh@email.com',
+    value: 'renad.majd.79@gmail.com',
+    href: 'mailto:renad.majd.79@gmail.com',
   },
   {
     icon: (
@@ -22,8 +22,8 @@ const contactInfo = [
       </svg>
     ),
     label: 'Phone',
-    value: '+971 50 XXX XXXX',
-    href: 'tel:+971500000000',
+    value: '+962 79 9907417',
+    href: 'tel:+962799907417',
   },
   {
     icon: (
@@ -33,14 +33,14 @@ const contactInfo = [
       </svg>
     ),
     label: 'Location',
-    value: 'Dubai, UAE',
+    value: 'Amman, Jordan',
     href: '#',
   },
 ]
 
 const socialLinks = [
   { name: 'LinkedIn', url: 'https://linkedin.com/in/renadmajdalwieh', icon: 'linkedin' },
-  { name: 'Behance', url: 'https://behance.net/renadmajdalwieh', icon: 'behance' },
+  { name: 'Behance', url: 'https://www.behance.net/renadmajd791995', icon: 'behance' },
   { name: 'Dribbble', url: 'https://dribbble.com/renadmajdalwieh', icon: 'dribbble' },
   { name: 'Instagram', url: 'https://instagram.com/renadmajdalwieh', icon: 'instagram' },
 ]

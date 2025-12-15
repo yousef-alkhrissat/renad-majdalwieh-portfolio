@@ -193,7 +193,7 @@ export default function Portfolio() {
           animate={inView ? { opacity: 1 } : {}}
           transition={{ delay: 0.8 }}
         >
-          <a href="https://behance.net/renadmajdalwieh" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
+          <a href="https://www.behance.net/renadmajd791995" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
             View All Projects on Behance
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
               <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>

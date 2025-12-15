@@ -12,7 +12,7 @@ const navLinks = [
 
 const socialLinks = [
   { name: 'LinkedIn', url: 'https://linkedin.com/in/renadmajdalwieh' },
-  { name: 'Behance', url: 'https://behance.net/renadmajdalwieh' },
+  { name: 'Behance', url: 'https://www.behance.net/renadmajd791995' },
   { name: 'Dribbble', url: 'https://dribbble.com/renadmajdalwieh' },
   { name: 'Instagram', url: 'https://instagram.com/renadmajdalwieh' },
 ]
@@ -101,19 +101,19 @@ export default function Footer() {
             <div className="footer-contact">
               <h4 className="footer-heading">Get In Touch</h4>
               <div className="contact-items">
-                <a href="mailto:renad.majdalwieh@email.com" className="contact-item">
+                <a href="mailto:renad.majd.79@gmail.com" className="contact-item">
                   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
                     <polyline points="22,6 12,13 2,6"/>
                   </svg>
-                  renad.majdalwieh@email.com
+                  renad.majd.79@gmail.com
                 </a>
                 <span className="contact-item">
                   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
                     <circle cx="12" cy="10" r="3"/>
                   </svg>
-                  Dubai, UAE
+                  Amman, Jordan
                 </span>
               </div>
               <a href="#contact" className="footer-cta btn btn-primary" onClick={(e) => handleNavClick(e, '#contact')}>

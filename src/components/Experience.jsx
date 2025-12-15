@@ -73,18 +73,20 @@ const experiences = [
 
 const education = [
   {
-    period: '2014 - 2018',
-    degree: 'Bachelor of Design',
+    period: 'Sep 2013 - Jul 2017',
+    degree: 'Business Information Technology',
     institution: 'University of Jordan',
-    field: 'Visual Communication Design',
-    description: 'Focused on digital design, typography, and user experience principles.',
+    field: 'Cumulative Grade: Good',
+    description: 'Studied business and information technology fundamentals.',
   },
 ]
 
 const certifications = [
-  { name: 'Google UX Design Professional Certificate', year: '2023' },
-  { name: 'Interaction Design Foundation Certification', year: '2022' },
-  { name: 'Nielsen Norman Group UX Certification', year: '2021' },
+  { name: 'UX Design Certificate - Google', year: 'Present' },
+  { name: 'UX Design & UX Research - Edrak', year: '2022' },
+  { name: 'UX Design User Behavior & Psychology - Udemy', year: '2020' },
+  { name: 'Interaction Design & Design Thinking - LinkedIn Learning', year: '2018' },
+  { name: 'Graphic Design & Adobe Tools - INSPIRE ME Center', year: '2017' },
 ]
 
 export default function Experience() {

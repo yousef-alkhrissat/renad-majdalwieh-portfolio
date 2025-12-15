@@ -4,7 +4,7 @@ import './Hero.css'
 
 const socialLinks = [
   { name: 'LinkedIn', url: 'https://linkedin.com/in/renadmajdalwieh', icon: 'linkedin' },
-  { name: 'Behance', url: 'https://behance.net/renadmajdalwieh', icon: 'behance' },
+  { name: 'Behance', url: 'https://www.behance.net/renadmajd791995', icon: 'behance' },
   { name: 'Dribbble', url: 'https://dribbble.com/renadmajdalwieh', icon: 'dribbble' },
 ]
 

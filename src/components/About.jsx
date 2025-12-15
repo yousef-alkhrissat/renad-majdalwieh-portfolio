@@ -111,20 +111,18 @@ export default function About() {
             
             <div className="about-text">
               <p className="lead">
-                I'm a passionate Senior UI/UX Designer with over 7 years of experience 
-                creating digital products that seamlessly blend aesthetics with functionality.
+                UI/UX professional with 7 years of diverse experience in full-time, 
+                part-time, and freelance roles.
               </p>
               <p>
-                My journey in design began with a simple belief: great design should be 
-                invisible, effortlessly guiding users toward their goals. I specialize in 
-                transforming complex problems into intuitive, elegant solutions that users 
-                love and businesses value.
+                Proven track record as a Senior Designer, Specialist, and Team Lead. 
+                Skilled in end-to-end design processes from research and data analysis 
+                to delivering user-centered, trend-aligned UI solutions.
               </p>
               <p>
-                I've had the privilege of working with diverse clients—from innovative 
-                startups to established enterprises—helping them build products that 
-                resonate with their users. My approach combines strategic thinking with 
-                creative execution, always keeping the user at the center of every decision.
+                I've worked across various industries including Banking, Fintech, Government, 
+                Healthcare, Education, and E-commerce—helping companies build products that 
+                resonate with their users. Fluent in Arabic (Mother Tongue) and English (Very Good).
               </p>
             </div>
 
